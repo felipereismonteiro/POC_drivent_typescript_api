@@ -1,6 +1,6 @@
 >To start the project run the following steps: <br>
->> npm i <br>
->> npm run dev <br>
+>> npm i - to install all the dependencies <br>
+>> npm run dev - to run the project<br>
 
 ---
 
