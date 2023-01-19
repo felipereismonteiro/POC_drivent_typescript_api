@@ -1,3 +1,9 @@
+>To start the project run the following steps: <br>
+>> npm i <br>
+>> npm run dev <br>
+
+---
+
 ### GET /products
 will receive all products.
 
